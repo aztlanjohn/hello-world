@@ -11,3 +11,6 @@ Ok, this commit won't use a Jira issue key, to see what happens, or doesn't.
 It didn't. 
 
 This one will use a Jira issue key, but no comment command.
+That worked!
+
+Ok, what about time logging - this "extended description" will include a time log.
