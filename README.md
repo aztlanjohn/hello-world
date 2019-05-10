@@ -8,3 +8,6 @@ New edits. This is in Branch number dos.
 But I forgot to add a note for the ticket. Doing that now.
 
 Ok, this commit won't use a Jira issue key, to see what happens, or doesn't.
+It didn't. 
+
+This one will use a Jira issue key, but no comment command.
