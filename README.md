@@ -4,4 +4,5 @@ This is John. I'm the senior Atlassian admin here and I'm testing how the new Gi
 
 Now I'm adding a new line to see if I can add a comment to a Jira ticket.
 
-New edits. This is in Branch number dos.
+New edits. This is in Branch number dos. 
+But I forgot to add a note for the ticket. Doing that now.
