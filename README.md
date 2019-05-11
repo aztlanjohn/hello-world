@@ -14,3 +14,4 @@ This one will use a Jira issue key, but no comment command.
 That worked!
 
 Ok, what about time logging - this "extended description" will include a time log.
+That didn't work.
